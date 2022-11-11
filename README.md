@@ -4,5 +4,5 @@
 This repository is exercise code
 
 ## Course Progress
-[x] part.0 Fundamentals of Web apps
+-[x] part.0 Fundamentals of Web apps
 
